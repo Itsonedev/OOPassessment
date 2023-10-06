@@ -21,7 +21,20 @@ public class Main {
 
         VehicleApp vehicleApp = new VehicleApp();
         vehicleApp.printListOfVehicleNames(vehicleList);
-        
+
+        ArrayList<Flyable> flyableObjects = new ArrayList<>();
+        flyableObjects.add(seven47);
+        flyableObjects.add(futureWheels);
+        flyableObjects.add(drone);
+
+
+
+        //Hash Map Passengers
+
+
+
+
+
 
     }
 }
